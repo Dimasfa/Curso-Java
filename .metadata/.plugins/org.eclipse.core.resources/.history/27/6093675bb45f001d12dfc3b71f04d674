@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author playb
+ *
+ */
+module Clínica {
+}

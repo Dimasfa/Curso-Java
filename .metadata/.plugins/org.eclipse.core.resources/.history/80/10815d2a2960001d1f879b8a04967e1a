@@ -1,0 +1,10 @@
+package fundamentos;
+
+public class AreaCircunferencia {
+	
+     public static void main(String[] args) {
+    	 // syso + crtl + espaço para imprimir algo.
+    	 System.out.println(2 +3);
+	
+}
+}

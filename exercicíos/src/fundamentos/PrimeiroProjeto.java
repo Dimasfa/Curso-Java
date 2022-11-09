@@ -1,0 +1,30 @@
+package fundamentos;
+
+/**
+ *  Essa clasee representa... JAVADOC
+ *  
+ * @author Dimas Ferreira <@email.com>
+ * @since JDK1.0
+ * @see
+ */
+
+public class PrimeiroProjeto {
+	/**
+	 * 
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// Uma sentença de código termina com ";" 
+		// Mais um comentário...
+		//Fim
+		System.out.println("Primeiro Programa parte#1 ");
+		System.out.println("Primeiro Programa parte#2 ");
+		/*
+		 * Linha 1 
+		 * Linha 2 
+		 * Linha 3 
+		 */
+		System.out.println("Fim");// Aqui tb funciona!
+	}
+}
+git status 
